@@ -1,6 +1,6 @@
 # Site Settings
 title: Stian Øvrevåge
-url: 'https://stianovrevage.github.io/cv/'
+url: 'https://stianovrevage.github.io'
 baseurl: 'cv/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
