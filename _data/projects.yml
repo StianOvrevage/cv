@@ -1,24 +1,21 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Her er et par utvalgte prosjekter som jeg er spesielt fornøyd med å ha gjennomført."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Integrert monitoreringssystem (IMS)
+  link: ""
+  tagline: "En PHP-basert webapplikasjon som i sanntid henter informasjon fra CRM system via Oracle SQL, provisjoneringssystem via SOAP API,
+  kundeutstyr via telnet og nettverksutstyr i felten via SNMP. Gjorde det mulig for første-linje support ansatte hos Kvinnherad Breiband å løse 80-90% av
+  innkommende kundehenvendelser uten å eskalere til teknisk avdeling. Ble brukt flere ganger i timen i 5-6 år."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
-- project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Ansvarlig for migrering av IPTV fra Altibox til Get
+  link: "http://www.mynewsdesk.com/no/get/pressreleases/get-styrker-tv-tilbodet-i-kvinnherad-655729"
+  tagline: "Våren og sommeren 2011 byttet Kvinnherad Breiband fra Altibox til Get for IPTV. Det innebærte blant annet å klargjøre
+  nettverket for å kjøre dobbelt opp med multicast som var en utfordring både mtp kapasitet i nettet og konfigurasjon.
+  I tillegg ble det innhentet informasjon fra 1500 TV kunder som ble lagt inn i nye CRM systemer samt klargjøring av riktig type
+  TV-dekoder til riktig kunde og registrering av MAC-adresser på hver dekoder opp mot kunde i CRM systemer. Forberedelser tok 2-3 måneder med 1-2 personer
+  og utlevering av nytt utstyr ble gjort av lokale idrettslag med en takt på 500 per uke og bemanning av helpdesk på kveldstid av 2-3 personer
+  på utleveringsdagene. Alt gikk bedre enn planlagt og vi slo sammen de to siste utleveringsukene for levering av totalt 1000 TV-dekodere med 2-3 personer
+  som koordinerte sentralt og tok innkommende henvendelser fra kunder."
+
+

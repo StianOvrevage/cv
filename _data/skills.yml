@@ -1,18 +1,100 @@
-- skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
-- skill:
-  name: Ruby on Rails
-  level: 85%
-- skill:
-  name: Sketch & Photoshop
-  level: 60%
+- field:
+  name: Cloud
+  skills:
+  - skill:
+    name: "Azure (2015-)"
+    level: 75%
+  - skill:
+    name: "AWS (2015-)"
+    level: 70%
+  - skill:
+    name: "Kubernetes (2017-)"
+    level: 50%
+  - skill:
+    name: "SaltStack (2014-)"
+    level: 80%
+    
+- field:
+  name: Infrastructure
+  skills:
+  - skill:
+    name: "Docker (2016-)"
+    level: 70%
+  - skill:
+    name: "VMware/KVM (2007-)"
+    level: 75%
+  - skill:
+    name: "Linux (2006-)"
+    level: 95%
+  - skill:
+    name: "Apache/Nginx/IIS (2002-)"
+    level: 95%
+  - skill:
+    name: "Windows (2002-)"
+    level: 70%
+  - skill:
+    name: "Databases (SQL) (2002-)"
+    level: 70%
+  - skill:
+    name: "FreeBSD (2003-2006)"
+    level: 20%
+
+- field:
+  name: Monitoring
+  skills:
+  - skill:
+    name: "Time-series databases(2009-)"
+    level: 95%
+  - skill:
+    name: "Grafana (2014-)"
+    level: 80%
+  - skill:
+    name: "ELK-stack (2012-)"
+    level: 70%
+
+
+- field:
+  name: Security
+  skills:
+  - skill:
+    name: Firewalls (2003-)
+    level: 90%
+  - skill:
+    name: Encryption (2007-)
+    level: 80%
+  - skill:
+    name: IDS/IPS (2007-2010)
+    level: 60%
+  - skill:
+    name: Risk analysis (2009-)
+    level: 50%
+
+    
+- field:
+  name: Development
+  skills:
+  - skill:
+    name: Python2/3 (2013-)
+    level: 80%
+  - skill:
+    name: HTML+CSS (2002-)
+    level: 80%
+  - skill:
+    name: JavaScript (2016-)
+    level: 60%
+  - skill:
+    name: REST APIs (2014-)
+    level: 70%
+  - skill:
+    name: PHP (2002-)
+    level: 65%
+  - skill:
+    name: SQL (2002-)
+    level: 65%
+  - skill:
+    name: Shell & Powershell (2005-)
+    level: 60%
+  - skill:
+    name: SOAP APIs (2011-)
+    level: 60%
+
