@@ -40,6 +40,19 @@
     level: 20%
 
 - field:
+  name: Networking
+  skills:
+  - skill:
+    name: "TCP-IP (2003-)"
+    level: 95%
+  - skill:
+    name: "Switching (2009-)"
+    level: 85%
+  - skill:
+    name: "Routing (2010-)"
+    level: 80%
+    
+- field:
   name: Monitoring
   skills:
   - skill:
@@ -51,7 +64,6 @@
   - skill:
     name: "ELK-stack (2012-)"
     level: 70%
-
 
 - field:
   name: Security
@@ -68,7 +80,6 @@
   - skill:
     name: Risk analysis (2009-)
     level: 50%
-
     
 - field:
   name: Development
@@ -97,4 +108,3 @@
   - skill:
     name: SOAP APIs (2011-)
     level: 60%
-
