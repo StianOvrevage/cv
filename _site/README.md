@@ -24,7 +24,7 @@ bundle update
 bundle exec jekyll serve --host 0.0.0.0
 ```
 
-Go to http://localhost:4000/ to preview.
+Go to http://localhost:4000/cv/ to preview.
 
 ### Tips
 

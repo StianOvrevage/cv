@@ -1,0 +1,29 @@
+{% if site.data.presentation %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Presentasjoner</h2>
+
+{% for presentation in site.data.presentations %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ presentation.title }}</h3>
+        <div class="time">{{ presentation.instances }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ presentation.type }}</div>
+
+    </div><!--//meta-->
+
+    {% if presentation.details %}
+    <div class="details">
+      <p>{{ presentation.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}

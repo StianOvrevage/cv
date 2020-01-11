@@ -1,0 +1,25 @@
+{% if site.data.media %}
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-archive"></i>Media</h2>
+
+  {% for intro in site.data.media %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
+
+  {% for madia in site.data.media %}
+    <div class="item">
+
+      <span class="project-title"><a href="{{ madia.link }}">{{ madia.title }}</a></span>
+
+      {% if madia.tagline %}
+      - <span class="project-tagline">{{ madia.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
