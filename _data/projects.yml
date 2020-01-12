@@ -6,13 +6,13 @@
   tagline: "A PHP-based web application that collects real-time data from CRM systems via Oracle SQL, 
   provisioning systems via SOAP API, customer premise equipment via telnet and network 
   equipment in the field via SNMP. Allows first-line support in Kvinnherad Breiband to 
-  solve 80-90% of incomming requests without escalating to technical personel. Used several times per hour for 5-6 years."
+  solve 80-90% of incoming requests without escalating to technical personnel. Used several times per hour for 5-6 years."
 - project:
   title: "Responsible for migrating IPTV from Altibox to Get."
   link: "http://www.mynewsdesk.com/no/get/pressreleases/get-styrker-tv-tilbodet-i-kvinnherad-655729"
   tagline: "During spring and summer 2011 Kvinnherad Breiband switched providers of IPTV services from Altibox to Get.
-  This included preparing the network for running both IPTV networks simulatenously during the migration.
-  It required ingenuety to accomplish this \"in flight\" both accounting for configuration complexity and
+  This included preparing the network for running both IPTV networks simultaneously during the migration.
+  It required ingenuity to accomplish this \"in flight\" both accounting for configuration complexity and
   available network bandwidth without causing downtime or degradation of services. We also surveyed 1500
   customers and updated CRM systems with new subscription preferences and mapped this to new set-top-box
   MAC-addresses for each customer. Total preparations took us 2-3 months for 1-2 people. Migration was
