@@ -1,46 +1,54 @@
 - experience:
+  role: Partner and co-founder
+  time: 2018-Present
+  company: K30, Stavanger
+  details: "In K30 I'm responsible for cloud, infrastructure and operations. I advice our internal teams 
+  on software architecture as well as overall business and strategy of our company."
+- experience:
+  role: Cloud, DevOps and Kubernetes consultant
+  time: 2018-Present
+  company: Equinor, Stavanger
+  details: "I'm part of two teams developing next generation platforms for maximizing developer productivity
+  in Equinor. One is Omnia Radix; aiming to make it easy for developers to make the jump to the cloud. The other is
+  Omnia Aurora where we manage a platform allowing developers and data scientists to
+  deploy their potentially large and computationally intensive workloads to the cloud."
+- experience:
   role: CEO/CTO
-  time: 2016-Nå
+  time: 2016-Present
   company: DataDynamics, Stavanger
-  details: "Utvikling og drift av et skybasert monitorering-as-a-service platform. Automatisert
-  utrulling, integrasjon og oppgradering av de ledende open-source monitoreringsløsningene, Prometheus
-  InfluxDB, Grafana, Elasticsearch, Logstash, Kibana (ELK). Platform driftet på MS Azure. Første
-  versjon orkestrert med SaltStack og til en hvis grad Docker. Siste versjon konvertert til å
-  kjøre på Kubernetes høsten 2017 og skal i produksjon tidlig 2018."
+  details: "Development and operations of a cloud based monitoring-as-a-service platform. Automatic provisioning, integration and upgrades
+  of the de-facto standard open-source monitoring solutions; Prometheus, InfluxDB, Grafana, Elasticsearch, Logstash/FluentD, Kibana (EL|FK).
+  Platform is run on MS Azure and AWS. First version orchestrated with SaltStack and Docker. Latest version also utilizing Kubernetes."
 - experience:
-  role: Seniorkonsulent
-  time: 2010-Nå
+  role: Senior consultant
+  time: 2010-Present
   company: Peritus Consulting
-  details: "Konsulent i eget selskap fra 2010. Har i hovedsak vært utleid til Kvinnherad Breiband frem til 2017."
+  details: "Consultant in my own company from 2010. Done work for various clients, mainly as a full time hire to Kvinnherad Breiband from 2010 to 2017."
 - experience:
-  role: Teknisk ansvarlig
+  role: CTO
   time: 2010-2017
-  company: Kvinnherad Breiband (Innleid)
-  details: "Drift av et titalls servere og 150+ nettverkskomponenter med krav til kontinuerlig oppetid.
-  Tilrettelegging av nye tjenester, økte krav til oppetid og båndbredde fra sluttkunder og økning i kundemasse fra 2000
-  til 4000 på 8 år. Videreutvikling og spesialtilpasning av monitoreringsløsninger. Utvikling av interne verktøy
-  for raskere og bedre håndtering av support henvendelser og feilmeldinger."
+  company: Kvinnherad Breiband, regional Internet Service Provider (External hire)
+  details: "Operations of tens of servers and 150+ network components with high requirements for uptime and availability.
+  Planning and implementing necessary changes to increase availability and bandwidth and new services to allow for increase
+  in customers from 2000 to 4000 over 8 years. Development and customization of monitoring solutions. Development of internal
+  tools for easier, faster and more accurate handling of customer support issues and troubleshooting."
 - experience:
-  role: Konsulent - Kommunikasjon og sikkerhet
+  role: Consultant - Communication and security
   time: 2008-2010
-  company: ErgoGroup (nå Evry), Haugesund
-  details: "Jobbet hos mange ulike kunder Vestlandet. Feilsøking og pro-aktiv drift av Windows servermiljø.
-  Feilsøking og pro-aktiv drift av Cisco nettverk. Planlegging og utrulling av Cisco kontroller-baserte WLAN
-  i størrelsesorden 10-100 AP."
+  company: ErgoGroup (now Evry), Haugesund
+  details: "Worked for various client in western Norway. Troubleshooting and pro-active operations and maintenance of Windows server environments and Cisco networks.
+  Planning and implementation of Cisco controller based WLANs with between 10 and 100 APs."
 - experience:
-  role: Sikkerhetsanalytiker og nettverksadministrator
+  role: Security analyst and network administratiro
   time: 2007-2008
-  company: Secode (nå NTT Security), Arendal
-  details: "Jobbet som sikkerhetsanalytiker på en av Secodes Security Operation Centers (SOC).
-  Hovedoppgavene var å operere og analysere data fra IDS/IDP/IPS systemer. Blant annet NFR (Network Flight Recorder), 
-  Juniper IDS/IDP og Snort IDS.
+  company: Secode (now NTT Security), Arendal
+  details: "Worked as a security analyst in one of Secodes Security Operation Centers (SOC). Main tasks to operate and
+  analyse data from IDS/IDP/IPS systems, including Network Flight Recorder (NFR), Juniper IDS/IDP and Snort IDS.
   <br><br>
-  Ble etter kort tid også nettverksadministrator med ansvar for nettverk, servere og forskjellige sikkerhets-relaterte appliances.
-  Driftet blant annet Linux og OpenBSD og Cisco VPN."
+  Was after a short time given responsibility of networks, servers and various security-related appliances. Operation of Linux and OpenBSD servers and Cisco VPN."
 - experience:
-  role: Systemassistent Tele
+  role: Systems assistant Tele
   time: 2005-2007
-  company: KNM Roald Amundsen - Sjøforsvaret, Bergen
-  details: "Jobbet som sambandsteknikker på en av Norges nye fregatter. Deltok på kurs innen
-  nettverkskommunikasjon, sikkerhet, radioteori, SatCom, Windows og Unix-servere. Driftet ugradert nett og IT
-  system ombord på forlegningsskipet KNM Horten."
+  company: KNM Roald Amundsen - Royal Norwegian Navy, Bergen
+  details: "Worked as a communcations technician on one of Norways new Nansen-class frigates. Attended courses in network communcation, security, radio theory, satelitte communcation, Windows and Unix-servers.
+  Managed the unclassified networks and IT systems aboard the support vessel KNM Horten"

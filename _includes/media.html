@@ -9,13 +9,13 @@
   </div><!--//intro-->
   {% endfor%}
 
-  {% for madia in site.data.media %}
+  {% for media in site.data.media %}
     <div class="item">
 
-      <span class="project-title"><a href="{{ madia.link }}">{{ madia.title }}</a></span>
+      <span class="project-title">{{ media.date }}<br><a href="{{ media.link }}">{{ media.title }}</a></span>
 
-      {% if madia.tagline %}
-      - <span class="project-tagline">{{ madia.tagline }}</span>
+      {% if media.tagline %}
+      - <span class="project-tagline">{{ media.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->

@@ -1,0 +1,36 @@
+tagline: DevOps. Monitoring. Infrastructure.
+summary: "I'm a technical, yet business aware, person that loves to see technology work with and
+with the goal of helping users and organizations to achieve their goals."
+history: "I've spent both my personal and professional time on technology for the past 15 years. 
+In the beginning my main interest was technical security and I was lucky to work withing 
+naval communcations systems and later as a security analyst in Secode. 
+/I understood that effective security is as much about routines, threat assesment, 
+strategy and risk analysis as it did about the dream of impenetrable technical security./
+<br><br>
+I then moved back to my home region Vestlandet and worked as a consultant in 
+network and security in ErgoGroup (now Tieto Evry) for 2-3 years. The work was 
+not that challenging and it was sometimes frustrating to see how problems were 
+solved in a local optimum often in conflict with the organizations overall strategy and goals.
+<br><br>
+In 2010, at the age of 24, I jumped of the corporate train and started my own 
+consultancy company. At my first client, Kvinnherad Breiband (a regional ISP), 
+I had the responsibility of networks, servers and support systems. It had been a 
+few years since there had been done any significant changes and upgrades causing 
+uptime and stability to suffer. During my 8 years there I worked relentlessly to improve systems and 
+troubleshoot problems that might arise 24/7. Old systems were taken out piece by piece. 
+Redundancy was improved and single-points-of-failure were identified and removed. 
+Automation and monitoring was a key strategy to allow for both a doubling of customer count, 
+introduce new services and improve customer satisfaction, without increasing head count in the organization. 
+Cooperation with leadership and the entire organization was not always easy, but critical, to ensure 
+the right prioritizations and trade-offs between technology and economy and short-term vs long-term. 
+After 5 years of weekly visits on-site I wanted to spend less time traveling and during 2015-2017 
+I spent 3 days weekly on operations and onboarding of two new resources that were going to carry the torch going forward.
+<br><br>
+In 2016 I got a request about monitoring so I started setting up a small monitoring service 
+in the cloud based on my own experience built on the best available open-source systems. 
+The existing managed monitoring solutions were easy to start using but had a pricing 
+structure that made it prohibitely expensive to monitor for example hundreds of servers 
+at a sufficient interval. Further development stopped in 2017 because of new opportunities but the existing customers still use the platform.
+<br><br>
+
+"

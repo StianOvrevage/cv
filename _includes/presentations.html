@@ -1,6 +1,6 @@
-{% if site.data.presentation %}
+{% if site.data.presentations %}
 <section class="section experiences-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>Presentasjoner</h2>
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Presentations and talks</h2>
 
 {% for presentation in site.data.presentations %}
   <div class="item">
@@ -9,10 +9,13 @@
 
       <div class="upper-row">
         <h3 class="job-title">{{ presentation.title }}</h3>
-        <div class="time">{{ presentation.instances }}</div>
       </div><!--//upper-row-->
 
       <div class="company">{{ presentation.type }}</div>
+
+      {% for instance in presentation.instances %}
+        <p style="font-style: italic;"> - {{ instance.title }}</p>
+      {% endfor %}
 
     </div><!--//meta-->
 

@@ -2,10 +2,8 @@
   title: Docker introduction
   url: https://speakerdeck.com/stianovrevage/docker-introduction-workshop
   instances:
-  - instance:
-    title: February 2019 - Equinor Internal
-  - instance:
-    title: September 2019 - Equinor Developer Conference
+    - February 2019 - Equinor Internal
+    - September 2019 - Equinor Developer Conference
   type: Workshop
   details: "Gentle introduction to Docker as a first step in progressing towards the cloud.
 

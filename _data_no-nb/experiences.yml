@@ -1,0 +1,46 @@
+- experience:
+  role: CEO/CTO
+  time: 2016-Nå
+  company: DataDynamics, Stavanger
+  details: "Utvikling og drift av et skybasert monitorering-as-a-service platform. Automatisert
+  utrulling, integrasjon og oppgradering av de ledende open-source monitoreringsløsningene, Prometheus
+  InfluxDB, Grafana, Elasticsearch, Logstash, Kibana (ELK). Platform driftet på MS Azure. Første
+  versjon orkestrert med SaltStack og til en hvis grad Docker. Siste versjon konvertert til å
+  kjøre på Kubernetes høsten 2017 og skal i produksjon tidlig 2018."
+- experience:
+  role: Seniorkonsulent
+  time: 2010-Nå
+  company: Peritus Consulting
+  details: "Konsulent i eget selskap fra 2010. Har i hovedsak vært utleid til Kvinnherad Breiband frem til 2017."
+- experience:
+  role: Teknisk ansvarlig
+  time: 2010-2017
+  company: Kvinnherad Breiband (Innleid)
+  details: "Drift av et titalls servere og 150+ nettverkskomponenter med krav til kontinuerlig oppetid.
+  Tilrettelegging av nye tjenester, økte krav til oppetid og båndbredde fra sluttkunder og økning i kundemasse fra 2000
+  til 4000 på 8 år. Videreutvikling og spesialtilpasning av monitoreringsløsninger. Utvikling av interne verktøy
+  for raskere og bedre håndtering av support henvendelser og feilmeldinger."
+- experience:
+  role: Konsulent - Kommunikasjon og sikkerhet
+  time: 2008-2010
+  company: ErgoGroup (nå Evry), Haugesund
+  details: "Jobbet hos mange ulike kunder Vestlandet. Feilsøking og pro-aktiv drift av Windows servermiljø.
+  Feilsøking og pro-aktiv drift av Cisco nettverk. Planlegging og utrulling av Cisco kontroller-baserte WLAN
+  i størrelsesorden 10-100 AP."
+- experience:
+  role: Sikkerhetsanalytiker og nettverksadministrator
+  time: 2007-2008
+  company: Secode (nå NTT Security), Arendal
+  details: "Jobbet som sikkerhetsanalytiker på en av Secodes Security Operation Centers (SOC).
+  Hovedoppgavene var å operere og analysere data fra IDS/IDP/IPS systemer. Blant annet NFR (Network Flight Recorder), 
+  Juniper IDS/IDP og Snort IDS.
+  <br><br>
+  Ble etter kort tid også nettverksadministrator med ansvar for nettverk, servere og forskjellige sikkerhets-relaterte appliances.
+  Driftet blant annet Linux og OpenBSD og Cisco VPN."
+- experience:
+  role: Systemassistent Tele
+  time: 2005-2007
+  company: KNM Roald Amundsen - Sjøforsvaret, Bergen
+  details: "Jobbet som sambandsteknikker på en av Norges nye fregatter. Deltok på kurs innen
+  nettverkskommunikasjon, sikkerhet, radioteori, SatCom, Windows og Unix-servere. Driftet ugradert nett og IT
+  system ombord på forlegningsskipet KNM Horten."

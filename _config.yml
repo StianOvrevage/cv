@@ -1,46 +1,19 @@
 # Site Settings
 title: Stian Øvrevåge
-url: 'https://stianovrevage.github.io'
-baseurl: '/cv' #change it according to your repository name
+url: 'https://cv.stian.tech'
+# baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
-#style: styles-3
+style: styles-3
 #style: styles-4
 #style: styles-5
 #style: styles-6
 
 #Profile information
 name: Stian Øvrevåge
-tagline: Monitorering. Infrastruktur. DevOps.
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Jeg er en teknisk person som liker å se teknologi virke sammen med og med
-formål om å hjelpe brukere og organisasjoner med å nå sine mål.
-<br><br>
-Jeg har brukt tid både privat og på arbeid med teknologi i over 15 år. I starten var hovedinteressen min teknisk sikkerhet
-og jeg var veldig heldig som fikk jobbe med det innen samband i Sjøforsvaret og senere som sikkerhetsanalytiker i Secode. 
-Jeg forstod dog at effektiv sikkerhet handler om rutiner, trusselbilde, strategi og risikoanalyse, mer enn drømmen 
-om ugjennomtrengelig teknisk sikkerhet.
-<br><br>
-Deretter flyttet jeg hjem igjen til Vestlandet og jobbet som konsulent i nettverk
-og sikkerhet i ErgoGroup i 2-3 år. Arbeidsoppgavene var veldig varierte men ikke så veldig krevende og arbeidet
-ble ofte gjort uten tanke på hvordan en kan løse ting helhetlig og til det beste for hele organisasjonen.
-<br><br>
-Ved fusjonen mellom EDB og ErgoGroup (som nå er Evry) i 2010 hoppet jeg av og startet for meg selv. Hos den første kunden,
-Kvinnherad Breiband, fikk jeg det tekniske ansvaret for nettverk, servere og støttesystemer. Det var mange år siden det hadde
-blitt gjort betydelige oppgraderinger og oppetid og stabilitet led pga det. I løpet av 8 år jobbet jeg kontinuerlig
-med å feilsøke problemer som kunne oppstå 24/7. Gamle systemer ble bit for bit tatt ut av drift. Redundans ble forbedret kontinuerlig
-og utallige single-points-of-failure fjernet. Automatisering og monitorering har vært nøkkelord for å kunne håndtere en dobling i kundemasse,
-nye typer utstyr og forbedring av tjenestene som sett fra kunden. Hele veien var samarbeid med ledelse og hele organisasjonen
-kritisk for å bli enige om de riktige prioriteringene mellom teknologi-økonomi, og kort-lang sikt. Etter mer enn 5 år med ukependling mellom
-Haugesund/Stavanger og Hardanger ønsket jeg mer tid hjemme mens Kvinnherad Breiband ønsket mer tid on-site. I 2015 var det et par lokale
-ressurser som kunne ta over den daglige driften og i perioden 2015-2017 jobbet jeg 3 dager ukentlig med drift og opplæring av de nye
-ressursene.
-<br><br>
-I 2016 fikk jeg en henvendelse om monitorering og startet så smått å sette opp en monitoreringstjeneste i skyen
-basert på mine egne erfaringer og bygget på de beste tilgjengelige open-source systemene som er tilgjengelige. Det finnes
-mange skybaserte monitoreringssystemer allerede men de fleste har en kostnadsstruktur som gjør det rimelig å starte, men veldig
-dyrt hvis en f.eks. skal monitorere et par hundre servere. Vi har i dag noen få, men veldig fornøyde kunder.'
+
 
 #sidebar links
 email: stian@peritusconsulting.no

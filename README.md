@@ -11,6 +11,7 @@ Install some stuff in the container and start the dev-server.
 apt-get update
 apt-get install -y ruby-dev make gcc zlib1g-dev libcurl3 git
 gem install bundler
+gem update --system
 cd cv
 bundle install
 
