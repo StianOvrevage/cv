@@ -12,7 +12,7 @@
   {% for media in site.data.media %}
     <div class="item">
 
-      <span class="project-title">{{ media.date }}<br><a href="{{ media.link }}">{{ media.title }}</a></span>
+      <span class="project-title">{{ media.date }}<br><a href="{{ media.url }}">{{ media.title }}</a></span>
 
       {% if media.tagline %}
       - <span class="project-tagline">{{ media.tagline }}</span>
