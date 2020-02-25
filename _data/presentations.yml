@@ -1,4 +1,13 @@
 - presentation:
+  title: Avoiding Lock-in without avoiding Managed Services
+  url: https://speakerdeck.com/stianovrevage/avoiding-lock-in-without-avoiding-managed-services
+  instances:
+  - instance:
+    title: February 2020 - Stavanger Software Developers Meetup
+  type: 20 minute talk
+  details: "Perspectives on how to maximize benefit from managed services without the cost and risk of vendor lock-in"
+
+- presentation:
   title: Docker introduction
   url: https://speakerdeck.com/stianovrevage/docker-introduction-workshop
   instances:
@@ -10,12 +19,3 @@
   details: "Gentle introduction to Docker as a first step in progressing towards the cloud.
 
   Initially held as an internal workshop in February 2019 and again as the most popular workshop at Equinor Developer Conference (EDC) in September 2019 with 70+ participants."
-
-- presentation:
-  title: Avoiding Lock-in without avoiding Managed Services
-  url: https://speakerdeck.com/stianovrevage/avoiding-lock-in-without-avoiding-managed-services
-  instances:
-  - instance:
-    title: February 2020 - Stavanger Software Developers Meetup
-  type: 20 minute talk
-  details: "Perspectives on how to maximize benefit from managed services without the cost and risk of vendor lock-in"
